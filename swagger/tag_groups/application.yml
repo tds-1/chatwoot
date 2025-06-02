@@ -10,7 +10,7 @@ info:
     name: MIT License
     url: https://opensource.org/licenses/MIT
 servers:
-  - url: https://app.chatwoot.com/
+  - url: http://host.docker.internal/
 tags:
   - name: Account AgentBots
     description: Manage agent bots within accounts

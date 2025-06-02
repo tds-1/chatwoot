@@ -18,7 +18,7 @@
   },
   "servers": [
     {
-      "url": "https://app.chatwoot.com/"
+      "url": "http://host.docker.internal/"
     }
   ],
   "paths": {
