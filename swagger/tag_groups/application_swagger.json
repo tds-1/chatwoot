@@ -94,8 +94,7 @@
                         "type": "boolean",
                         "description": "Whether the bot is a system bot"
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   }
                 }
               }
@@ -126,12 +125,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -195,8 +192,7 @@
                     "description": "The configuration for the bot",
                     "example": {}
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -249,8 +245,7 @@
                       "type": "boolean",
                       "description": "Whether the bot is a system bot"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -280,12 +275,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -377,8 +370,7 @@
                       "type": "boolean",
                       "description": "Whether the bot is a system bot"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -408,12 +400,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -443,12 +433,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -512,8 +500,7 @@
                     "description": "The configuration for the bot",
                     "example": {}
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -566,8 +553,7 @@
                       "type": "boolean",
                       "description": "Whether the bot is a system bot"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -597,12 +583,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -653,12 +637,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -688,12 +670,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -790,8 +770,7 @@
                         "type": "integer",
                         "description": "The custom role id of the agent"
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   }
                 }
               }
@@ -822,12 +801,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -895,8 +872,7 @@
                     "description": "Whether the availability status of agent is configured to go offline automatically when away.",
                     "example": true
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -960,8 +936,7 @@
                       "type": "integer",
                       "description": "The custom role id of the agent"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -991,12 +966,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -1076,8 +1049,7 @@
                     "description": "Whether the availability status of agent is configured to go offline automatically when away.",
                     "example": true
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -1141,8 +1113,7 @@
                       "type": "integer",
                       "description": "The custom role id of the agent"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -1172,12 +1143,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -1207,12 +1176,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -1274,12 +1241,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -1309,12 +1274,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -1384,8 +1347,7 @@
                         "type": "string",
                         "description": "The date and time when the canned response was updated"
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   }
                 }
               }
@@ -1416,12 +1378,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -1460,8 +1420,7 @@
                     "description": "Short Code for quick access of the canned response",
                     "example": "welcome"
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -1498,8 +1457,7 @@
                       "type": "string",
                       "description": "The date and time when the canned response was updated"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -1529,12 +1487,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -1597,8 +1553,7 @@
                     "description": "Short Code for quick access of the canned response",
                     "example": "welcome"
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -1635,8 +1590,7 @@
                       "type": "string",
                       "description": "The date and time when the canned response was updated"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -1666,12 +1620,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -1701,12 +1653,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -1768,12 +1718,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -1803,12 +1751,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -1917,8 +1863,7 @@
                         "type": "string",
                         "description": "The date and time when the custom attribute was updated"
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   }
                 }
               }
@@ -1949,12 +1894,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -2029,8 +1972,7 @@
                     "description": "Regex cue message (Only applicable for type- text). The cue message is shown when the regex pattern is not matched.",
                     "example": "Please enter a valid value"
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -2091,8 +2033,7 @@
                       "type": "string",
                       "description": "The date and time when the custom attribute was updated"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -2122,12 +2063,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -2247,8 +2186,7 @@
                       "type": "string",
                       "description": "The date and time when the custom attribute was updated"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -2278,12 +2216,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -2313,12 +2249,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -2404,8 +2338,7 @@
                     "description": "Regex cue message (Only applicable for type- text). The cue message is shown when the regex pattern is not matched.",
                     "example": "Please enter a valid value"
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -2466,8 +2399,7 @@
                       "type": "string",
                       "description": "The date and time when the custom attribute was updated"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -2497,12 +2429,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -2532,12 +2462,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -2608,12 +2536,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -2643,12 +2569,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -2731,8 +2655,7 @@
                           "type": "string",
                           "description": "Current page number"
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     },
                     "payload": {
                       "type": "array",
@@ -2759,8 +2682,7 @@
                                 "type": "string",
                                 "description": "IP address when the contact was created"
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           },
                           "availability_status": {
                             "type": "string",
@@ -2852,20 +2774,16 @@
                                       "description": "Provider of the inbox",
                                       "nullable": true
                                     }
-                                  },
-                                  "additionalProperties": true
+                                  }
                                 }
-                              },
-                              "additionalProperties": true
+                              }
                             }
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       },
                       "description": "List of contacts"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -2895,12 +2813,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -2996,8 +2912,7 @@
                     "description": "An object where you can store custom attributes for contact. example {\"type\":\"customer\", \"age\":30}, this should have a valid custom attribute definition.",
                     "example": {}
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -3105,19 +3020,15 @@
                                           "type": "string",
                                           "description": "The provider of the inbox"
                                         }
-                                      },
-                                      "additionalProperties": true
+                                      }
                                     }
-                                  },
-                                  "additionalProperties": true
+                                  }
                                 }
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           }
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     },
                     {
                       "type": "object",
@@ -3134,8 +3045,7 @@
                           ],
                           "description": "Availability status of the user"
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     }
                   ]
                 }
@@ -3167,12 +3077,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -3247,8 +3155,7 @@
                               "type": "string",
                               "description": "IP address when the contact was created"
                             }
-                          },
-                          "additionalProperties": true
+                          }
                         },
                         "availability_status": {
                           "type": "string",
@@ -3340,18 +3247,14 @@
                                     "description": "Provider of the inbox",
                                     "nullable": true
                                   }
-                                },
-                                "additionalProperties": true
+                                }
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           }
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -3381,12 +3284,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -3416,12 +3317,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -3498,8 +3397,7 @@
                     "description": "An object where you can store custom attributes for contact. example {\"type\":\"customer\", \"age\":30}, this should have a valid custom attribute definition.",
                     "example": {}
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -3517,8 +3415,7 @@
                         "id": {
                           "type": "number"
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     },
                     {
                       "type": "object",
@@ -3616,19 +3513,15 @@
                                           "type": "string",
                                           "description": "The provider of the inbox"
                                         }
-                                      },
-                                      "additionalProperties": true
+                                      }
                                     }
-                                  },
-                                  "additionalProperties": true
+                                  }
                                 }
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           }
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     }
                   ]
                 }
@@ -3660,12 +3553,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -3695,12 +3586,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -3751,12 +3640,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -3786,12 +3673,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -3980,8 +3865,7 @@
                                       "type": "object",
                                       "description": "User/Agent/AgentBot object"
                                     }
-                                  },
-                                  "additionalProperties": true
+                                  }
                                 }
                               },
                               "account_id": {
@@ -4177,8 +4061,7 @@
                                     "type": "object",
                                     "description": "User/Agent/AgentBot object"
                                   }
-                                },
-                                "additionalProperties": true
+                                }
                               },
                               "last_activity_at": {
                                 "type": "number",
@@ -4207,8 +4090,7 @@
                                   "description": "SLA event objects"
                                 }
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           },
                           {
                             "type": "object",
@@ -4267,8 +4149,7 @@
                                         "type": "number",
                                         "description": "The created at of the sender"
                                       }
-                                    },
-                                    "additionalProperties": true
+                                    }
                                   },
                                   "channel": {
                                     "type": "string",
@@ -4390,29 +4271,24 @@
                                               "type": "object",
                                               "nullable": true
                                             }
-                                          },
-                                          "additionalProperties": true
+                                          }
                                         }
                                       }
-                                    },
-                                    "additionalProperties": true
+                                    }
                                   },
                                   "hmac_verified": {
                                     "type": "boolean",
                                     "description": "Whether the hmac is verified"
                                   }
-                                },
-                                "additionalProperties": true
+                                }
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           }
                         ]
                       },
                       "description": "List of conversations for the contact"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -4442,12 +4318,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -4477,12 +4351,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -4541,8 +4413,7 @@
                         "type": "string"
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -4572,12 +4443,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -4607,12 +4476,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -4655,8 +4522,7 @@
                       "billing"
                     ]
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -4676,8 +4542,7 @@
                         "type": "string"
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -4707,12 +4572,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -4742,12 +4605,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -4838,8 +4699,7 @@
                           "type": "string",
                           "description": "Current page number"
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     },
                     "payload": {
                       "type": "array",
@@ -4866,8 +4726,7 @@
                                 "type": "string",
                                 "description": "IP address when the contact was created"
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           },
                           "availability_status": {
                             "type": "string",
@@ -4959,20 +4818,16 @@
                                       "description": "Provider of the inbox",
                                       "nullable": true
                                     }
-                                  },
-                                  "additionalProperties": true
+                                  }
                                 }
-                              },
-                              "additionalProperties": true
+                              }
                             }
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       },
                       "description": "List of contacts"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -5002,12 +4857,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -5090,8 +4943,7 @@
                             "OR"
                           ]
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     },
                     "example": [
                       {
@@ -5112,8 +4964,7 @@
                       }
                     ]
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -5137,8 +4988,7 @@
                           "type": "string",
                           "description": "Current page number"
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     },
                     "payload": {
                       "type": "array",
@@ -5165,8 +5015,7 @@
                                 "type": "string",
                                 "description": "IP address when the contact was created"
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           },
                           "availability_status": {
                             "type": "string",
@@ -5258,20 +5107,16 @@
                                       "description": "Provider of the inbox",
                                       "nullable": true
                                     }
-                                  },
-                                  "additionalProperties": true
+                                  }
                                 }
-                              },
-                              "additionalProperties": true
+                              }
                             }
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       },
                       "description": "List of contacts"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -5301,12 +5146,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -5436,8 +5279,7 @@
                                       "help"
                                     ],
                                     "query_operator": "and"
-                                  },
-                                  "additionalProperties": true
+                                  }
                                 }
                               },
                               "actions": {
@@ -5462,8 +5304,7 @@
                                       "support",
                                       "sales"
                                     ]
-                                  },
-                                  "additionalProperties": true
+                                  }
                                 }
                               },
                               "created_on": {
@@ -5474,8 +5315,7 @@
                                 "type": "boolean",
                                 "description": "Enable/disable automation rule"
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           }
                         },
                         {
@@ -5542,8 +5382,7 @@
                                         "help"
                                       ],
                                       "query_operator": "and"
-                                    },
-                                    "additionalProperties": true
+                                    }
                                   }
                                 },
                                 "actions": {
@@ -5568,8 +5407,7 @@
                                         "support",
                                         "sales"
                                       ]
-                                    },
-                                    "additionalProperties": true
+                                    }
                                   }
                                 },
                                 "created_on": {
@@ -5580,15 +5418,13 @@
                                   "type": "boolean",
                                   "description": "Enable/disable automation rule"
                                 }
-                              },
-                              "additionalProperties": true
+                              }
                             }
                           ]
                         }
                       ]
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -5618,12 +5454,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -5704,8 +5538,7 @@
                       }
                     }
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -5784,8 +5617,7 @@
                                       "help"
                                     ],
                                     "query_operator": "and"
-                                  },
-                                  "additionalProperties": true
+                                  }
                                 }
                               },
                               "actions": {
@@ -5810,8 +5642,7 @@
                                       "support",
                                       "sales"
                                     ]
-                                  },
-                                  "additionalProperties": true
+                                  }
                                 }
                               },
                               "created_on": {
@@ -5822,8 +5653,7 @@
                                 "type": "boolean",
                                 "description": "Enable/disable automation rule"
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           }
                         },
                         {
@@ -5890,8 +5720,7 @@
                                         "help"
                                       ],
                                       "query_operator": "and"
-                                    },
-                                    "additionalProperties": true
+                                    }
                                   }
                                 },
                                 "actions": {
@@ -5916,8 +5745,7 @@
                                         "support",
                                         "sales"
                                       ]
-                                    },
-                                    "additionalProperties": true
+                                    }
                                   }
                                 },
                                 "created_on": {
@@ -5928,15 +5756,13 @@
                                   "type": "boolean",
                                   "description": "Enable/disable automation rule"
                                 }
-                              },
-                              "additionalProperties": true
+                              }
                             }
                           ]
                         }
                       ]
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -5966,12 +5792,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -6100,8 +5924,7 @@
                                       "help"
                                     ],
                                     "query_operator": "and"
-                                  },
-                                  "additionalProperties": true
+                                  }
                                 }
                               },
                               "actions": {
@@ -6126,8 +5949,7 @@
                                       "support",
                                       "sales"
                                     ]
-                                  },
-                                  "additionalProperties": true
+                                  }
                                 }
                               },
                               "created_on": {
@@ -6138,8 +5960,7 @@
                                 "type": "boolean",
                                 "description": "Enable/disable automation rule"
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           }
                         },
                         {
@@ -6206,8 +6027,7 @@
                                         "help"
                                       ],
                                       "query_operator": "and"
-                                    },
-                                    "additionalProperties": true
+                                    }
                                   }
                                 },
                                 "actions": {
@@ -6232,8 +6052,7 @@
                                         "support",
                                         "sales"
                                       ]
-                                    },
-                                    "additionalProperties": true
+                                    }
                                   }
                                 },
                                 "created_on": {
@@ -6244,15 +6063,13 @@
                                   "type": "boolean",
                                   "description": "Enable/disable automation rule"
                                 }
-                              },
-                              "additionalProperties": true
+                              }
                             }
                           ]
                         }
                       ]
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 },
                 "example": {
                   "payload": {
@@ -6319,12 +6136,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -6354,12 +6169,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -6451,8 +6264,7 @@
                       }
                     }
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -6531,8 +6343,7 @@
                                       "help"
                                     ],
                                     "query_operator": "and"
-                                  },
-                                  "additionalProperties": true
+                                  }
                                 }
                               },
                               "actions": {
@@ -6557,8 +6368,7 @@
                                       "support",
                                       "sales"
                                     ]
-                                  },
-                                  "additionalProperties": true
+                                  }
                                 }
                               },
                               "created_on": {
@@ -6569,8 +6379,7 @@
                                 "type": "boolean",
                                 "description": "Enable/disable automation rule"
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           }
                         },
                         {
@@ -6637,8 +6446,7 @@
                                         "help"
                                       ],
                                       "query_operator": "and"
-                                    },
-                                    "additionalProperties": true
+                                    }
                                   }
                                 },
                                 "actions": {
@@ -6663,8 +6471,7 @@
                                         "support",
                                         "sales"
                                       ]
-                                    },
-                                    "additionalProperties": true
+                                    }
                                   }
                                 },
                                 "created_on": {
@@ -6675,15 +6482,13 @@
                                   "type": "boolean",
                                   "description": "Enable/disable automation rule"
                                 }
-                              },
-                              "additionalProperties": true
+                              }
                             }
                           ]
                         }
                       ]
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -6713,12 +6518,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -6748,12 +6551,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -6815,12 +6616,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -6850,12 +6649,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -6948,8 +6745,7 @@
                       "default_locale": "en"
                     }
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -7001,12 +6797,10 @@
                                       "type": "integer",
                                       "description": "Number of categories in this locale"
                                     }
-                                  },
-                                  "additionalProperties": true
+                                  }
                                 }
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           },
                           "custom_domain": {
                             "type": "string",
@@ -7149,8 +6943,7 @@
                                       "type": "boolean",
                                       "description": "Whether the inbox is open for the entire day"
                                     }
-                                  },
-                                  "additionalProperties": true
+                                  }
                                 }
                               },
                               "timezone": {
@@ -7205,8 +6998,7 @@
                                 "type": "string",
                                 "description": "Provider of the channel"
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           },
                           "logo": {
                             "type": "object",
@@ -7239,8 +7031,7 @@
                                 "type": "string",
                                 "description": "Name of the file"
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           },
                           "meta": {
                             "type": "object",
@@ -7272,15 +7063,12 @@
                                 "type": "string",
                                 "description": "Default locale for the portal"
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -7310,12 +7098,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -7395,12 +7181,10 @@
                                       "type": "integer",
                                       "description": "Number of categories in this locale"
                                     }
-                                  },
-                                  "additionalProperties": true
+                                  }
                                 }
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           },
                           "custom_domain": {
                             "type": "string",
@@ -7543,8 +7327,7 @@
                                       "type": "boolean",
                                       "description": "Whether the inbox is open for the entire day"
                                     }
-                                  },
-                                  "additionalProperties": true
+                                  }
                                 }
                               },
                               "timezone": {
@@ -7599,8 +7382,7 @@
                                 "type": "string",
                                 "description": "Provider of the channel"
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           },
                           "logo": {
                             "type": "object",
@@ -7633,8 +7415,7 @@
                                 "type": "string",
                                 "description": "Name of the file"
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           },
                           "meta": {
                             "type": "object",
@@ -7666,15 +7447,12 @@
                                 "type": "string",
                                 "description": "Default locale for the portal"
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 },
                 "example": {
                   "payload": [
@@ -7753,12 +7531,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -7880,8 +7656,7 @@
                       "default_locale": "en"
                     }
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -7931,12 +7706,10 @@
                                     "type": "integer",
                                     "description": "Number of categories in this locale"
                                   }
-                                },
-                                "additionalProperties": true
+                                }
                               }
                             }
-                          },
-                          "additionalProperties": true
+                          }
                         },
                         "custom_domain": {
                           "type": "string",
@@ -8079,8 +7852,7 @@
                                     "type": "boolean",
                                     "description": "Whether the inbox is open for the entire day"
                                   }
-                                },
-                                "additionalProperties": true
+                                }
                               }
                             },
                             "timezone": {
@@ -8135,8 +7907,7 @@
                               "type": "string",
                               "description": "Provider of the channel"
                             }
-                          },
-                          "additionalProperties": true
+                          }
                         },
                         "logo": {
                           "type": "object",
@@ -8169,8 +7940,7 @@
                               "type": "string",
                               "description": "Name of the file"
                             }
-                          },
-                          "additionalProperties": true
+                          }
                         },
                         "meta": {
                           "type": "object",
@@ -8202,14 +7972,11 @@
                               "type": "string",
                               "description": "Default locale for the portal"
                             }
-                          },
-                          "additionalProperties": true
+                          }
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 },
                 "example": {
                   "payload": {
@@ -8298,12 +8065,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -8333,12 +8098,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -8429,8 +8192,7 @@
                     "description": "To associate similar categories to each other, e.g same category of product documentation in different languages",
                     "example": 2
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -8476,8 +8238,7 @@
                       "type": "integer",
                       "description": "To define parent category, e.g product documentation has multiple level features in sales category or in engineering category."
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -8507,12 +8268,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -8624,8 +8383,7 @@
                       "description": "article description"
                     }
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -8687,8 +8445,7 @@
                       "type": "integer",
                       "description": "To associate similar articles to each other, e.g to provide the link for the reference."
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -8718,12 +8475,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -8831,11 +8586,9 @@
                         "all_count": {
                           "type": "number"
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -8865,12 +8618,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -9005,8 +8756,7 @@
                             "all_count": {
                               "type": "number"
                             }
-                          },
-                          "additionalProperties": true
+                          }
                         },
                         "payload": {
                           "type": "array",
@@ -9019,8 +8769,7 @@
                                   "id": {
                                     "type": "number"
                                   }
-                                },
-                                "additionalProperties": true
+                                }
                               },
                               {
                                 "type": "object",
@@ -9144,8 +8893,7 @@
                                           "type": "object",
                                           "description": "User/Agent/AgentBot object"
                                         }
-                                      },
-                                      "additionalProperties": true
+                                      }
                                     }
                                   },
                                   "account_id": {
@@ -9341,8 +9089,7 @@
                                         "type": "object",
                                         "description": "User/Agent/AgentBot object"
                                       }
-                                    },
-                                    "additionalProperties": true
+                                    }
                                   },
                                   "last_activity_at": {
                                     "type": "number",
@@ -9371,8 +9118,7 @@
                                       "description": "SLA event objects"
                                     }
                                   }
-                                },
-                                "additionalProperties": true
+                                }
                               },
                               {
                                 "type": "object",
@@ -9431,8 +9177,7 @@
                                             "type": "number",
                                             "description": "The created at of the sender"
                                           }
-                                        },
-                                        "additionalProperties": true
+                                        }
                                       },
                                       "channel": {
                                         "type": "string",
@@ -9554,31 +9299,25 @@
                                                   "type": "object",
                                                   "nullable": true
                                                 }
-                                              },
-                                              "additionalProperties": true
+                                              }
                                             }
                                           }
-                                        },
-                                        "additionalProperties": true
+                                        }
                                       },
                                       "hmac_verified": {
                                         "type": "boolean",
                                         "description": "Whether the hmac is verified"
                                       }
-                                    },
-                                    "additionalProperties": true
+                                    }
                                   }
-                                },
-                                "additionalProperties": true
+                                }
                               }
                             ]
                           }
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -9608,12 +9347,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -9746,14 +9483,11 @@
                               "1": "Chatwoot"
                             }
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -9778,8 +9512,7 @@
                       "type": "number",
                       "description": "ID of the inbox"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -9809,12 +9542,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -9899,8 +9630,7 @@
                             "OR"
                           ]
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     },
                     "example": [
                       {
@@ -9921,8 +9651,7 @@
                       }
                     ]
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -9953,8 +9682,7 @@
                             "all_count": {
                               "type": "number"
                             }
-                          },
-                          "additionalProperties": true
+                          }
                         },
                         "payload": {
                           "type": "array",
@@ -9967,8 +9695,7 @@
                                   "id": {
                                     "type": "number"
                                   }
-                                },
-                                "additionalProperties": true
+                                }
                               },
                               {
                                 "type": "object",
@@ -10092,8 +9819,7 @@
                                           "type": "object",
                                           "description": "User/Agent/AgentBot object"
                                         }
-                                      },
-                                      "additionalProperties": true
+                                      }
                                     }
                                   },
                                   "account_id": {
@@ -10289,8 +10015,7 @@
                                         "type": "object",
                                         "description": "User/Agent/AgentBot object"
                                       }
-                                    },
-                                    "additionalProperties": true
+                                    }
                                   },
                                   "last_activity_at": {
                                     "type": "number",
@@ -10319,8 +10044,7 @@
                                       "description": "SLA event objects"
                                     }
                                   }
-                                },
-                                "additionalProperties": true
+                                }
                               },
                               {
                                 "type": "object",
@@ -10379,8 +10103,7 @@
                                             "type": "number",
                                             "description": "The created at of the sender"
                                           }
-                                        },
-                                        "additionalProperties": true
+                                        }
                                       },
                                       "channel": {
                                         "type": "string",
@@ -10502,31 +10225,25 @@
                                                   "type": "object",
                                                   "nullable": true
                                                 }
-                                              },
-                                              "additionalProperties": true
+                                              }
                                             }
                                           }
-                                        },
-                                        "additionalProperties": true
+                                        }
                                       },
                                       "hmac_verified": {
                                         "type": "boolean",
                                         "description": "Whether the hmac is verified"
                                       }
-                                    },
-                                    "additionalProperties": true
+                                    }
                                   }
-                                },
-                                "additionalProperties": true
+                                }
                               }
                             ]
                           }
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -10556,12 +10273,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -10735,8 +10450,7 @@
                                 "type": "object",
                                 "description": "User/Agent/AgentBot object"
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           }
                         },
                         "account_id": {
@@ -10932,8 +10646,7 @@
                               "type": "object",
                               "description": "User/Agent/AgentBot object"
                             }
-                          },
-                          "additionalProperties": true
+                          }
                         },
                         "last_activity_at": {
                           "type": "number",
@@ -10962,8 +10675,7 @@
                             "description": "SLA event objects"
                           }
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     },
                     {
                       "type": "object",
@@ -11022,8 +10734,7 @@
                                   "type": "number",
                                   "description": "The created at of the sender"
                                 }
-                              },
-                              "additionalProperties": true
+                              }
                             },
                             "channel": {
                               "type": "string",
@@ -11145,22 +10856,18 @@
                                         "type": "object",
                                         "nullable": true
                                       }
-                                    },
-                                    "additionalProperties": true
+                                    }
                                   }
                                 }
-                              },
-                              "additionalProperties": true
+                              }
                             },
                             "hmac_verified": {
                               "type": "boolean",
                               "description": "Whether the hmac is verified"
                             }
-                          },
-                          "additionalProperties": true
+                          }
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     }
                   ]
                 }
@@ -11192,12 +10899,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -11227,12 +10932,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -11281,8 +10984,7 @@
                     "description": "The ID of the SLA policy (Available only in Enterprise edition)",
                     "example": 1
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -11316,12 +11018,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -11351,12 +11051,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -11423,8 +11121,7 @@
                     "description": "The status of the conversation",
                     "example": "open"
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -11456,11 +11153,9 @@
                         "conversation_id": {
                           "type": "number"
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -11490,12 +11185,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -11525,12 +11218,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -11599,8 +11290,7 @@
                     "description": "The priority of the conversation",
                     "example": "high"
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -11634,12 +11324,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -11669,12 +11357,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -11736,8 +11422,7 @@
                       "previous_conversation": "67890"
                     }
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -11754,8 +11439,7 @@
                       "type": "object",
                       "description": "The custom attributes of the conversation"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -11785,12 +11469,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -11820,12 +11502,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -11889,8 +11569,7 @@
                     "description": "Id of the team. If the assignee_id is present, this param would be ignored",
                     "example": 1
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -12016,12 +11695,10 @@
                             "type": "object",
                             "nullable": true
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -12051,12 +11728,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -12086,12 +11761,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -12150,8 +11823,7 @@
                         "type": "string"
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -12181,12 +11853,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -12216,12 +11886,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -12264,8 +11932,7 @@
                       "billing"
                     ]
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -12285,8 +11952,7 @@
                         "type": "string"
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -12316,12 +11982,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -12351,12 +12015,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -12515,8 +12177,7 @@
                                   "type": "boolean",
                                   "description": "Whether the inbox is open for the entire day"
                                 }
-                              },
-                              "additionalProperties": true
+                              }
                             }
                           },
                           "timezone": {
@@ -12571,12 +12232,10 @@
                             "type": "string",
                             "description": "Provider of the channel"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -12606,12 +12265,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -12641,12 +12298,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -12808,8 +12463,7 @@
                             "type": "boolean",
                             "description": "Whether the inbox is open for the entire day"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     },
                     "timezone": {
@@ -12864,8 +12518,7 @@
                       "type": "string",
                       "description": "Provider of the channel"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -12895,12 +12548,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -12930,12 +12581,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -13093,11 +12742,9 @@
                         "description": "A Hex-color string used to customize the widget",
                         "example": "#FF5733"
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -13220,8 +12867,7 @@
                             "type": "boolean",
                             "description": "Whether the inbox is open for the entire day"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     },
                     "timezone": {
@@ -13276,8 +12922,7 @@
                       "type": "string",
                       "description": "Provider of the channel"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -13307,12 +12952,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -13342,12 +12985,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -13500,11 +13141,9 @@
                         "description": "A Hex-color string used to customize the widget",
                         "example": "#FF5733"
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -13627,8 +13266,7 @@
                             "type": "boolean",
                             "description": "Whether the inbox is open for the entire day"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     },
                     "timezone": {
@@ -13683,8 +13321,7 @@
                       "type": "string",
                       "description": "Provider of the channel"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -13714,12 +13351,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -13749,12 +13384,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -13846,8 +13479,7 @@
                       "type": "boolean",
                       "description": "Whether the bot is a system bot"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -13877,12 +13509,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -13912,12 +13542,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -13976,8 +13604,7 @@
                     "description": "Agent bot ID",
                     "example": 1
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -14011,12 +13638,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -14046,12 +13671,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -14171,12 +13794,10 @@
                             "type": "integer",
                             "description": "The custom role id of the agent"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -14206,12 +13827,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -14241,12 +13860,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -14307,8 +13924,7 @@
                       1
                     ]
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -14378,12 +13994,10 @@
                             "type": "integer",
                             "description": "The custom role id of the agent"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -14413,12 +14027,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -14448,12 +14060,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -14483,12 +14093,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -14536,8 +14144,7 @@
                       1
                     ]
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -14607,12 +14214,10 @@
                             "type": "integer",
                             "description": "The custom role id of the agent"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -14642,12 +14247,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -14677,12 +14280,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -14712,12 +14313,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -14761,8 +14360,7 @@
                     },
                     "description": "IDs of users to be deleted from the inbox"
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -14796,12 +14394,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -14831,12 +14427,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -14866,12 +14460,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -15031,19 +14623,15 @@
                                               "type": "string",
                                               "description": "The provider of the inbox"
                                             }
-                                          },
-                                          "additionalProperties": true
+                                          }
                                         }
-                                      },
-                                      "additionalProperties": true
+                                      }
                                     }
                                   }
-                                },
-                                "additionalProperties": true
+                                }
                               }
                             }
-                          },
-                          "additionalProperties": true
+                          }
                         },
                         "assignee": {
                           "type": "object",
@@ -15099,8 +14687,7 @@
                               "type": "integer",
                               "description": "The custom role id of the agent"
                             }
-                          },
-                          "additionalProperties": true
+                          }
                         },
                         "agent_last_seen_at": {
                           "type": "string",
@@ -15110,8 +14697,7 @@
                           "type": "string",
                           "format": "date-time"
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     },
                     "payload": {
                       "type": "array",
@@ -15229,12 +14815,10 @@
                             "type": "object",
                             "description": "User/Agent/AgentBot object"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -15264,12 +14848,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -15299,12 +14881,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -15407,11 +14987,9 @@
                           "1": "Chatwoot"
                         }
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -15429,8 +15007,7 @@
                         "id": {
                           "type": "number"
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     },
                     {
                       "type": "object",
@@ -15545,8 +15122,7 @@
                           "type": "object",
                           "description": "User/Agent/AgentBot object"
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     }
                   ]
                 }
@@ -15578,12 +15154,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -15613,12 +15187,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -15700,12 +15272,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -15735,12 +15305,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -15820,12 +15388,10 @@
                             },
                             "description": "If there are any hooks created for this integration"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -15855,12 +15421,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -15890,12 +15454,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -15957,8 +15519,7 @@
                     "description": "The settings required by the integration",
                     "example": {}
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -15999,8 +15560,7 @@
                       "type": "object",
                       "description": "The associated settings for the integration"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -16030,12 +15590,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -16096,8 +15654,7 @@
                     "description": "The settings required by the integration",
                     "example": {}
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -16138,8 +15695,7 @@
                       "type": "object",
                       "description": "The associated settings for the integration"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -16169,12 +15725,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -16245,12 +15799,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -16280,12 +15832,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -16430,12 +15980,10 @@
                             "type": "object",
                             "nullable": true
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -16465,12 +16013,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -16540,8 +16086,7 @@
                         "type": "boolean",
                         "description": "This field shows whether the current user is a part of the team"
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   }
                 }
               }
@@ -16572,12 +16117,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -16632,8 +16175,7 @@
                     "description": "If this setting is turned on, the system would automatically assign the conversation to an agent in the team while assigning the conversation to a team",
                     "example": true
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -16670,8 +16212,7 @@
                       "type": "boolean",
                       "description": "This field shows whether the current user is a part of the team"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -16701,12 +16242,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -16782,8 +16321,7 @@
                       "type": "boolean",
                       "description": "This field shows whether the current user is a part of the team"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -16813,12 +16351,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -16848,12 +16384,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -16897,8 +16431,7 @@
                     "description": "If this setting is turned on, the system would automatically assign the conversation to an agent in the team while assigning the conversation to a team",
                     "example": true
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -16935,8 +16468,7 @@
                       "type": "boolean",
                       "description": "This field shows whether the current user is a part of the team"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -16966,12 +16498,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -17022,12 +16552,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -17057,12 +16585,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -17188,8 +16714,7 @@
                         "type": "integer",
                         "description": "The custom role id of the agent"
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   }
                 }
               }
@@ -17220,12 +16745,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -17255,12 +16778,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -17302,8 +16823,7 @@
                       1
                     ]
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -17370,8 +16890,7 @@
                         "type": "integer",
                         "description": "The custom role id of the agent"
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   }
                 }
               }
@@ -17402,12 +16921,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -17437,12 +16954,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -17472,12 +16987,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -17519,8 +17032,7 @@
                       1
                     ]
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -17587,8 +17099,7 @@
                         "type": "integer",
                         "description": "The custom role id of the agent"
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   }
                 }
               }
@@ -17619,12 +17130,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -17654,12 +17163,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -17689,12 +17196,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -17733,8 +17238,7 @@
                     },
                     "description": "IDs of users to be deleted from the team"
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -17768,12 +17272,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -17803,12 +17305,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -17838,12 +17338,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -17934,8 +17432,7 @@
                         "format": "date-time",
                         "description": "The time at which the custom filter was updated"
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   }
                 }
               }
@@ -17966,12 +17463,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -18031,8 +17526,7 @@
                     "description": "A query that needs to be saved as a custom filter",
                     "example": {}
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -18076,8 +17570,7 @@
                       "format": "date-time",
                       "description": "The time at which the custom filter was updated"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -18107,12 +17600,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -18195,8 +17686,7 @@
                       "format": "date-time",
                       "description": "The time at which the custom filter was updated"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -18226,12 +17716,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -18261,12 +17749,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -18315,8 +17801,7 @@
                     "description": "A query that needs to be saved as a custom filter",
                     "example": {}
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -18360,8 +17845,7 @@
                       "format": "date-time",
                       "description": "The time at which the custom filter was updated"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -18391,12 +17875,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -18447,12 +17929,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -18482,12 +17962,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -18562,8 +18040,7 @@
                         "type": "number",
                         "description": "The id of the account which the webhook object belongs to"
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   }
                 }
               }
@@ -18594,12 +18071,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -18665,8 +18140,7 @@
                       "conversation_status_changed"
                     ]
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -18708,8 +18182,7 @@
                       "type": "number",
                       "description": "The id of the account which the webhook object belongs to"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -18739,12 +18212,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -18832,8 +18303,7 @@
                       "conversation_status_changed"
                     ]
                   }
-                },
-                "additionalProperties": true
+                }
               }
             }
           }
@@ -18875,8 +18345,7 @@
                       "type": "number",
                       "description": "The id of the account which the webhook object belongs to"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -18906,12 +18375,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -18972,12 +18439,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -19086,8 +18551,7 @@
                       "timestamp": {
                         "type": "number"
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   }
                 }
               }
@@ -19118,12 +18582,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -19153,12 +18615,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -19280,11 +18740,9 @@
                         "resolutions_count": {
                           "type": "number"
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -19314,12 +18772,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -19349,12 +18805,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -19419,8 +18873,7 @@
                     "unassigned": {
                       "type": "number"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -19450,12 +18903,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -19485,12 +18936,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -19580,11 +19029,9 @@
                           "unattended": {
                             "type": "number"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   }
                 }
               }
@@ -19615,12 +19062,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -19650,12 +19095,10 @@
                           "code": {
                             "type": "string"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
             }
@@ -19690,12 +19133,10 @@
                 "code": {
                   "type": "string"
                 }
-              },
-              "additionalProperties": true
+              }
             }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "request_error": {
         "type": "object",
@@ -19709,8 +19150,7 @@
           "code": {
             "type": "string"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "generic_id": {
         "type": "object",
@@ -19718,8 +19158,7 @@
           "id": {
             "type": "number"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "canned_response": {
         "type": "object",
@@ -19748,8 +19187,7 @@
             "type": "string",
             "description": "The date and time when the canned response was updated"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "custom_attribute": {
         "type": "object",
@@ -19802,8 +19240,7 @@
             "type": "string",
             "description": "The date and time when the custom attribute was updated"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "automation_rule": {
         "type": "object",
@@ -19874,8 +19311,7 @@
                             "help"
                           ],
                           "query_operator": "and"
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     },
                     "actions": {
@@ -19900,8 +19336,7 @@
                             "support",
                             "sales"
                           ]
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     },
                     "created_on": {
@@ -19912,8 +19347,7 @@
                       "type": "boolean",
                       "description": "Enable/disable automation rule"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               },
               {
@@ -19980,8 +19414,7 @@
                               "help"
                             ],
                             "query_operator": "and"
-                          },
-                          "additionalProperties": true
+                          }
                         }
                       },
                       "actions": {
@@ -20006,8 +19439,7 @@
                               "support",
                               "sales"
                             ]
-                          },
-                          "additionalProperties": true
+                          }
                         }
                       },
                       "created_on": {
@@ -20018,15 +19450,13 @@
                         "type": "boolean",
                         "description": "Enable/disable automation rule"
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   }
                 ]
               }
             ]
           }
-        },
-        "additionalProperties": true
+        }
       },
       "automation_rule_item": {
         "type": "object",
@@ -20088,8 +19518,7 @@
                   "help"
                 ],
                 "query_operator": "and"
-              },
-              "additionalProperties": true
+              }
             }
           },
           "actions": {
@@ -20114,8 +19543,7 @@
                   "support",
                   "sales"
                 ]
-              },
-              "additionalProperties": true
+              }
             }
           },
           "created_on": {
@@ -20126,8 +19554,7 @@
             "type": "boolean",
             "description": "Enable/disable automation rule"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "portal": {
         "type": "object",
@@ -20171,12 +19598,10 @@
                             "type": "integer",
                             "description": "Number of categories in this locale"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 },
                 "custom_domain": {
                   "type": "string",
@@ -20319,8 +19744,7 @@
                             "type": "boolean",
                             "description": "Whether the inbox is open for the entire day"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     },
                     "timezone": {
@@ -20375,8 +19799,7 @@
                       "type": "string",
                       "description": "Provider of the channel"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 },
                 "logo": {
                   "type": "object",
@@ -20409,8 +19832,7 @@
                       "type": "string",
                       "description": "Name of the file"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 },
                 "meta": {
                   "type": "object",
@@ -20442,15 +19864,12 @@
                       "type": "string",
                       "description": "Default locale for the portal"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
-              },
-              "additionalProperties": true
+              }
             }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "portal_single": {
         "type": "object",
@@ -20492,12 +19911,10 @@
                           "type": "integer",
                           "description": "Number of categories in this locale"
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     }
                   }
-                },
-                "additionalProperties": true
+                }
               },
               "custom_domain": {
                 "type": "string",
@@ -20640,8 +20057,7 @@
                           "type": "boolean",
                           "description": "Whether the inbox is open for the entire day"
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     }
                   },
                   "timezone": {
@@ -20696,8 +20112,7 @@
                     "type": "string",
                     "description": "Provider of the channel"
                   }
-                },
-                "additionalProperties": true
+                }
               },
               "logo": {
                 "type": "object",
@@ -20730,8 +20145,7 @@
                     "type": "string",
                     "description": "Name of the file"
                   }
-                },
-                "additionalProperties": true
+                }
               },
               "meta": {
                 "type": "object",
@@ -20763,14 +20177,11 @@
                     "type": "string",
                     "description": "Default locale for the portal"
                   }
-                },
-                "additionalProperties": true
+                }
               }
-            },
-            "additionalProperties": true
+            }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "portal_config": {
         "type": "object",
@@ -20794,12 +20205,10 @@
                   "type": "integer",
                   "description": "Number of categories in this locale"
                 }
-              },
-              "additionalProperties": true
+              }
             }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "portal_logo": {
         "type": "object",
@@ -20832,8 +20241,7 @@
             "type": "string",
             "description": "Name of the file"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "portal_meta": {
         "type": "object",
@@ -20865,8 +20273,7 @@
             "type": "string",
             "description": "Default locale for the portal"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "portal_item": {
         "type": "object",
@@ -20905,12 +20312,10 @@
                       "type": "integer",
                       "description": "Number of categories in this locale"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
-            },
-            "additionalProperties": true
+            }
           },
           "custom_domain": {
             "type": "string",
@@ -21053,8 +20458,7 @@
                       "type": "boolean",
                       "description": "Whether the inbox is open for the entire day"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               },
               "timezone": {
@@ -21109,8 +20513,7 @@
                 "type": "string",
                 "description": "Provider of the channel"
               }
-            },
-            "additionalProperties": true
+            }
           },
           "logo": {
             "type": "object",
@@ -21143,8 +20546,7 @@
                 "type": "string",
                 "description": "Name of the file"
               }
-            },
-            "additionalProperties": true
+            }
           },
           "meta": {
             "type": "object",
@@ -21176,11 +20578,9 @@
                 "type": "string",
                 "description": "Default locale for the portal"
               }
-            },
-            "additionalProperties": true
+            }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "category": {
         "type": "object",
@@ -21218,8 +20618,7 @@
             "type": "integer",
             "description": "To define parent category, e.g product documentation has multiple level features in sales category or in engineering category."
           }
-        },
-        "additionalProperties": true
+        }
       },
       "article": {
         "type": "object",
@@ -21273,8 +20672,7 @@
             "type": "integer",
             "description": "To associate similar articles to each other, e.g to provide the link for the reference."
           }
-        },
-        "additionalProperties": true
+        }
       },
       "contact": {
         "type": "object",
@@ -21372,19 +20770,15 @@
                             "type": "string",
                             "description": "The provider of the inbox"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   }
                 }
-              },
-              "additionalProperties": true
+              }
             }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "conversation": {
         "type": "object",
@@ -21508,8 +20902,7 @@
                   "type": "object",
                   "description": "User/Agent/AgentBot object"
                 }
-              },
-              "additionalProperties": true
+              }
             }
           },
           "account_id": {
@@ -21705,8 +21098,7 @@
                 "type": "object",
                 "description": "User/Agent/AgentBot object"
               }
-            },
-            "additionalProperties": true
+            }
           },
           "last_activity_at": {
             "type": "number",
@@ -21735,8 +21127,7 @@
               "description": "SLA event objects"
             }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "message": {
         "type": "object",
@@ -21851,8 +21242,7 @@
             "type": "object",
             "description": "User/Agent/AgentBot object"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "user": {
         "type": "object",
@@ -21970,12 +21360,10 @@
                   "type": "object",
                   "nullable": true
                 }
-              },
-              "additionalProperties": true
+              }
             }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "agent": {
         "type": "object",
@@ -22031,8 +21419,7 @@
             "type": "integer",
             "description": "The custom role id of the agent"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "inbox": {
         "type": "object",
@@ -22147,8 +21534,7 @@
                   "type": "boolean",
                   "description": "Whether the inbox is open for the entire day"
                 }
-              },
-              "additionalProperties": true
+              }
             }
           },
           "timezone": {
@@ -22203,8 +21589,7 @@
             "type": "string",
             "description": "Provider of the channel"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "inbox_contact": {
         "type": "object",
@@ -22233,8 +21618,7 @@
             "type": "string",
             "description": "The provider of the inbox"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "agent_bot": {
         "type": "object",
@@ -22279,8 +21663,7 @@
             "type": "boolean",
             "description": "Whether the bot is a system bot"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "contact_inboxes": {
         "type": "object",
@@ -22316,11 +21699,9 @@
                 "type": "string",
                 "description": "The provider of the inbox"
               }
-            },
-            "additionalProperties": true
+            }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "contactable_inboxes": {
         "type": "object",
@@ -22442,8 +21823,7 @@
                       "type": "boolean",
                       "description": "Whether the inbox is open for the entire day"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               },
               "timezone": {
@@ -22498,11 +21878,9 @@
                 "type": "string",
                 "description": "Provider of the channel"
               }
-            },
-            "additionalProperties": true
+            }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "custom_filter": {
         "type": "object",
@@ -22538,8 +21916,7 @@
             "format": "date-time",
             "description": "The time at which the custom filter was updated"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "webhook": {
         "type": "object",
@@ -22573,8 +21950,7 @@
             "type": "number",
             "description": "The id of the account which the webhook object belongs to"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "account": {
         "type": "object",
@@ -22595,8 +21971,7 @@
             ],
             "description": "The user role in the account"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "account_user": {
         "type": "array",
@@ -22616,8 +21991,7 @@
               "type": "string",
               "description": "whether user is an administrator or agent"
             }
-          },
-          "additionalProperties": true
+          }
         }
       },
       "platform_account": {
@@ -22631,8 +22005,7 @@
             "type": "string",
             "description": "Name of the account"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "team": {
         "type": "object",
@@ -22661,8 +22034,7 @@
             "type": "boolean",
             "description": "This field shows whether the current user is a part of the team"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "integrations_app": {
         "type": "object",
@@ -22698,8 +22070,7 @@
             },
             "description": "If there are any hooks created for this integration"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "integrations_hook": {
         "type": "object",
@@ -22732,8 +22103,7 @@
             "type": "object",
             "description": "The associated settings for the integration"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "public_contact": {
         "type": "object",
@@ -22758,8 +22128,7 @@
             "type": "string",
             "description": "The token to be used to connect to chatwoot websocket"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "public_conversation": {
         "type": "object",
@@ -22887,8 +22256,7 @@
                   "type": "object",
                   "description": "User/Agent/AgentBot object"
                 }
-              },
-              "additionalProperties": true
+              }
             },
             "description": "Messages in the conversation"
           },
@@ -22896,8 +22264,7 @@
             "type": "object",
             "description": "The contact information associated to the conversation"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "public_message": {
         "type": "object",
@@ -22941,8 +22308,7 @@
             "type": "object",
             "description": "Details of the sender"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "public_inbox": {
         "type": "object",
@@ -22993,8 +22359,7 @@
                   "type": "integer",
                   "description": "Closing minute. Can be null if closed all day"
                 }
-              },
-              "additionalProperties": true
+              }
             }
           },
           "working_hours_enabled": {
@@ -23013,8 +22378,7 @@
             "type": "boolean",
             "description": "Whether of not the User Identity Validation is enforced on the inbox"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "account_create_update_payload": {
         "type": "object",
@@ -23058,8 +22422,7 @@
             "description": "The custom attributes of the account",
             "example": {}
           }
-        },
-        "additionalProperties": true
+        }
       },
       "account_user_create_update_payload": {
         "type": "object",
@@ -23078,8 +22441,7 @@
             "description": "whether user is an administrator or agent",
             "example": "administrator"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "platform_agent_bot_create_update_payload": {
         "type": "object",
@@ -23114,8 +22476,7 @@
             "description": "The url to a jpeg, png file for the agent bot avatar",
             "example": "https://example.com/avatar.png"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "agent_bot_create_update_payload": {
         "type": "object",
@@ -23155,8 +22516,7 @@
             "description": "The configuration for the bot",
             "example": {}
           }
-        },
-        "additionalProperties": true
+        }
       },
       "user_create_update_payload": {
         "type": "object",
@@ -23186,8 +22546,7 @@
             "description": "Custom attributes you want to associate with the user",
             "example": {}
           }
-        },
-        "additionalProperties": true
+        }
       },
       "canned_response_create_update_payload": {
         "type": "object",
@@ -23202,8 +22561,7 @@
             "description": "Short Code for quick access of the canned response",
             "example": "welcome"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "custom_attribute_create_update_payload": {
         "type": "object",
@@ -23254,8 +22612,7 @@
             "description": "Regex cue message (Only applicable for type- text). The cue message is shown when the regex pattern is not matched.",
             "example": "Please enter a valid value"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "agent_create_payload": {
         "type": "object",
@@ -23299,8 +22656,7 @@
             "description": "Whether the availability status of agent is configured to go offline automatically when away.",
             "example": true
           }
-        },
-        "additionalProperties": true
+        }
       },
       "agent_update_payload": {
         "type": "object",
@@ -23332,8 +22688,7 @@
             "description": "Whether the availability status of agent is configured to go offline automatically when away.",
             "example": true
           }
-        },
-        "additionalProperties": true
+        }
       },
       "contact_create_payload": {
         "type": "object",
@@ -23394,8 +22749,7 @@
             "description": "An object where you can store custom attributes for contact. example {\"type\":\"customer\", \"age\":30}, this should have a valid custom attribute definition.",
             "example": {}
           }
-        },
-        "additionalProperties": true
+        }
       },
       "contact_update_payload": {
         "type": "object",
@@ -23448,8 +22802,7 @@
             "description": "An object where you can store custom attributes for contact. example {\"type\":\"customer\", \"age\":30}, this should have a valid custom attribute definition.",
             "example": {}
           }
-        },
-        "additionalProperties": true
+        }
       },
       "conversation_create_payload": {
         "type": "object",
@@ -23555,14 +22908,11 @@
                       "1": "Chatwoot"
                     }
                   }
-                },
-                "additionalProperties": true
+                }
               }
-            },
-            "additionalProperties": true
+            }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "conversation_message_create_payload": {
         "type": "object",
@@ -23638,11 +22988,9 @@
                   "1": "Chatwoot"
                 }
               }
-            },
-            "additionalProperties": true
+            }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "inbox_create_payload": {
         "type": "object",
@@ -23763,11 +23111,9 @@
                 "description": "A Hex-color string used to customize the widget",
                 "example": "#FF5733"
               }
-            },
-            "additionalProperties": true
+            }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "inbox_update_payload": {
         "type": "object",
@@ -23874,11 +23220,9 @@
                 "description": "A Hex-color string used to customize the widget",
                 "example": "#FF5733"
               }
-            },
-            "additionalProperties": true
+            }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "team_create_update_payload": {
         "type": "object",
@@ -23898,8 +23242,7 @@
             "description": "If this setting is turned on, the system would automatically assign the conversation to an agent in the team while assigning the conversation to a team",
             "example": true
           }
-        },
-        "additionalProperties": true
+        }
       },
       "custom_filter_create_update_payload": {
         "type": "object",
@@ -23924,8 +23267,7 @@
             "description": "A query that needs to be saved as a custom filter",
             "example": {}
           }
-        },
-        "additionalProperties": true
+        }
       },
       "webhook_create_update_payload": {
         "type": "object",
@@ -23956,8 +23298,7 @@
               "conversation_status_changed"
             ]
           }
-        },
-        "additionalProperties": true
+        }
       },
       "integrations_hook_create_payload": {
         "type": "object",
@@ -23982,8 +23323,7 @@
             "description": "The settings required by the integration",
             "example": {}
           }
-        },
-        "additionalProperties": true
+        }
       },
       "integrations_hook_update_payload": {
         "type": "object",
@@ -23998,8 +23338,7 @@
             "description": "The settings required by the integration",
             "example": {}
           }
-        },
-        "additionalProperties": true
+        }
       },
       "automation_rule_create_update_payload": {
         "type": "object",
@@ -24056,8 +23395,7 @@
               }
             }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "portal_create_update_payload": {
         "type": "object",
@@ -24113,8 +23451,7 @@
               "default_locale": "en"
             }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "category_create_update_payload": {
         "type": "object",
@@ -24159,8 +23496,7 @@
             "description": "To associate similar categories to each other, e.g same category of product documentation in different languages",
             "example": 2
           }
-        },
-        "additionalProperties": true
+        }
       },
       "article_create_update_payload": {
         "type": "object",
@@ -24226,8 +23562,7 @@
               "description": "article description"
             }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "public_contact_create_update_payload": {
         "type": "object",
@@ -24267,8 +23602,7 @@
             "description": "Custom attributes of the customer",
             "example": {}
           }
-        },
-        "additionalProperties": true
+        }
       },
       "public_message_create_payload": {
         "type": "object",
@@ -24283,8 +23617,7 @@
             "description": "Temporary identifier which will be passed back via websockets",
             "example": "1234567890"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "public_message_update_payload": {
         "type": "object",
@@ -24322,14 +23655,11 @@
                     "description": "The rating of the CSAT survey response",
                     "example": 5
                   }
-                },
-                "additionalProperties": true
+                }
               }
-            },
-            "additionalProperties": true
+            }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "public_conversation_create_payload": {
         "type": "object",
@@ -24339,8 +23669,7 @@
             "description": "Custom attributes of the conversation",
             "example": {}
           }
-        },
-        "additionalProperties": true
+        }
       },
       "extended_contact": {
         "allOf": [
@@ -24440,19 +23769,15 @@
                                 "type": "string",
                                 "description": "The provider of the inbox"
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
-            },
-            "additionalProperties": true
+            }
           },
           {
             "type": "object",
@@ -24469,8 +23794,7 @@
                 ],
                 "description": "Availability status of the user"
               }
-            },
-            "additionalProperties": true
+            }
           }
         ]
       },
@@ -24482,8 +23806,7 @@
               "id": {
                 "type": "number"
               }
-            },
-            "additionalProperties": true
+            }
           },
           {
             "type": "object",
@@ -24581,19 +23904,15 @@
                                 "type": "string",
                                 "description": "The provider of the inbox"
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
-            },
-            "additionalProperties": true
+            }
           }
         ]
       },
@@ -24698,19 +24017,15 @@
                                   "type": "string",
                                   "description": "The provider of the inbox"
                                 }
-                              },
-                              "additionalProperties": true
+                              }
                             }
-                          },
-                          "additionalProperties": true
+                          }
                         }
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   }
                 }
-              },
-              "additionalProperties": true
+              }
             }
           ]
         }
@@ -24842,8 +24157,7 @@
                         "type": "object",
                         "description": "User/Agent/AgentBot object"
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   }
                 },
                 "account_id": {
@@ -25039,8 +24353,7 @@
                       "type": "object",
                       "description": "User/Agent/AgentBot object"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 },
                 "last_activity_at": {
                   "type": "number",
@@ -25069,8 +24382,7 @@
                     "description": "SLA event objects"
                   }
                 }
-              },
-              "additionalProperties": true
+              }
             },
             {
               "type": "object",
@@ -25129,8 +24441,7 @@
                           "type": "number",
                           "description": "The created at of the sender"
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     },
                     "channel": {
                       "type": "string",
@@ -25252,22 +24563,18 @@
                                 "type": "object",
                                 "nullable": true
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           }
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     },
                     "hmac_verified": {
                       "type": "boolean",
                       "description": "Whether the hmac is verified"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
-              },
-              "additionalProperties": true
+              }
             },
             {
               "type": "object",
@@ -25275,8 +24582,7 @@
                 "display_id": {
                   "type": "number"
                 }
-              },
-              "additionalProperties": true
+              }
             }
           ]
         }
@@ -25291,8 +24597,7 @@
               "type": "string"
             }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "conversation_list": {
         "type": "object",
@@ -25315,8 +24620,7 @@
                   "all_count": {
                     "type": "number"
                   }
-                },
-                "additionalProperties": true
+                }
               },
               "payload": {
                 "type": "array",
@@ -25329,8 +24633,7 @@
                         "id": {
                           "type": "number"
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     },
                     {
                       "type": "object",
@@ -25454,8 +24757,7 @@
                                 "type": "object",
                                 "description": "User/Agent/AgentBot object"
                               }
-                            },
-                            "additionalProperties": true
+                            }
                           }
                         },
                         "account_id": {
@@ -25651,8 +24953,7 @@
                               "type": "object",
                               "description": "User/Agent/AgentBot object"
                             }
-                          },
-                          "additionalProperties": true
+                          }
                         },
                         "last_activity_at": {
                           "type": "number",
@@ -25681,8 +24982,7 @@
                             "description": "SLA event objects"
                           }
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     },
                     {
                       "type": "object",
@@ -25741,8 +25041,7 @@
                                   "type": "number",
                                   "description": "The created at of the sender"
                                 }
-                              },
-                              "additionalProperties": true
+                              }
                             },
                             "channel": {
                               "type": "string",
@@ -25864,31 +25163,25 @@
                                         "type": "object",
                                         "nullable": true
                                       }
-                                    },
-                                    "additionalProperties": true
+                                    }
                                   }
                                 }
-                              },
-                              "additionalProperties": true
+                              }
                             },
                             "hmac_verified": {
                               "type": "boolean",
                               "description": "Whether the hmac is verified"
                             }
-                          },
-                          "additionalProperties": true
+                          }
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     }
                   ]
                 }
               }
-            },
-            "additionalProperties": true
+            }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "conversation_show": {
         "type": "object",
@@ -26015,8 +25308,7 @@
                       "type": "object",
                       "description": "User/Agent/AgentBot object"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               },
               "account_id": {
@@ -26212,8 +25504,7 @@
                     "type": "object",
                     "description": "User/Agent/AgentBot object"
                   }
-                },
-                "additionalProperties": true
+                }
               },
               "last_activity_at": {
                 "type": "number",
@@ -26242,8 +25533,7 @@
                   "description": "SLA event objects"
                 }
               }
-            },
-            "additionalProperties": true
+            }
           },
           {
             "type": "object",
@@ -26302,8 +25592,7 @@
                         "type": "number",
                         "description": "The created at of the sender"
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   },
                   "channel": {
                     "type": "string",
@@ -26425,22 +25714,18 @@
                               "type": "object",
                               "nullable": true
                             }
-                          },
-                          "additionalProperties": true
+                          }
                         }
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   },
                   "hmac_verified": {
                     "type": "boolean",
                     "description": "Whether the hmac is verified"
                   }
-                },
-                "additionalProperties": true
+                }
               }
-            },
-            "additionalProperties": true
+            }
           }
         ]
       },
@@ -26466,11 +25751,9 @@
               "conversation_id": {
                 "type": "number"
               }
-            },
-            "additionalProperties": true
+            }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "conversation_labels": {
         "type": "object",
@@ -26482,8 +25765,7 @@
               "type": "string"
             }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "account_summary": {
         "type": "object",
@@ -26527,11 +25809,9 @@
               "resolutions_count": {
                 "type": "number"
               }
-            },
-            "additionalProperties": true
+            }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "agent_conversation_metrics": {
         "type": "object",
@@ -26560,11 +25840,9 @@
               "unattended": {
                 "type": "number"
               }
-            },
-            "additionalProperties": true
+            }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "contact_detail": {
         "type": "object",
@@ -26589,8 +25867,7 @@
                 "type": "string",
                 "description": "IP address when the contact was created"
               }
-            },
-            "additionalProperties": true
+            }
           },
           "custom_attributes": {
             "type": "object",
@@ -26633,8 +25910,7 @@
               "contact"
             ]
           }
-        },
-        "additionalProperties": true
+        }
       },
       "message_detailed": {
         "type": "object",
@@ -26695,8 +25971,7 @@
                 "description": "ID of the message this is replying to",
                 "nullable": true
               }
-            },
-            "additionalProperties": true
+            }
           },
           "created_at": {
             "type": "integer",
@@ -26734,8 +26009,7 @@
                     "type": "string",
                     "description": "IP address when the contact was created"
                   }
-                },
-                "additionalProperties": true
+                }
               },
               "custom_attributes": {
                 "type": "object",
@@ -26778,11 +26052,9 @@
                   "contact"
                 ]
               }
-            },
-            "additionalProperties": true
+            }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "conversation_meta": {
         "type": "object",
@@ -26820,8 +26092,7 @@
                     "type": "string",
                     "description": "Version of the platform"
                   }
-                },
-                "additionalProperties": true
+                }
               },
               "referer": {
                 "type": "string",
@@ -26834,8 +26105,7 @@
                     "type": "string",
                     "description": "Timestamp when the conversation was initiated"
                   }
-                },
-                "additionalProperties": true
+                }
               },
               "browser_language": {
                 "type": "string",
@@ -26846,8 +26116,7 @@
                 "description": "Conversation language"
               }
             },
-            "description": "Additional attributes of the conversation",
-            "additionalProperties": true
+            "description": "Additional attributes of the conversation"
           },
           "contact": {
             "type": "object",
@@ -26872,8 +26141,7 @@
                     "type": "string",
                     "description": "IP address when the contact was created"
                   }
-                },
-                "additionalProperties": true
+                }
               },
               "custom_attributes": {
                 "type": "object",
@@ -26916,8 +26184,7 @@
                   "contact"
                 ]
               }
-            },
-            "additionalProperties": true
+            }
           },
           "agent_last_seen_at": {
             "type": "string",
@@ -26929,8 +26196,7 @@
             "description": "Timestamp when the assignee last saw the conversation",
             "nullable": true
           }
-        },
-        "additionalProperties": true
+        }
       },
       "conversation_messages": {
         "type": "object",
@@ -26971,8 +26237,7 @@
                         "type": "string",
                         "description": "Version of the platform"
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   },
                   "referer": {
                     "type": "string",
@@ -26985,8 +26250,7 @@
                         "type": "string",
                         "description": "Timestamp when the conversation was initiated"
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   },
                   "browser_language": {
                     "type": "string",
@@ -26997,8 +26261,7 @@
                     "description": "Conversation language"
                   }
                 },
-                "description": "Additional attributes of the conversation",
-                "additionalProperties": true
+                "description": "Additional attributes of the conversation"
               },
               "contact": {
                 "type": "object",
@@ -27023,8 +26286,7 @@
                         "type": "string",
                         "description": "IP address when the contact was created"
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   },
                   "custom_attributes": {
                     "type": "object",
@@ -27067,8 +26329,7 @@
                       "contact"
                     ]
                   }
-                },
-                "additionalProperties": true
+                }
               },
               "agent_last_seen_at": {
                 "type": "string",
@@ -27080,8 +26341,7 @@
                 "description": "Timestamp when the assignee last saw the conversation",
                 "nullable": true
               }
-            },
-            "additionalProperties": true
+            }
           },
           "payload": {
             "type": "array",
@@ -27144,8 +26404,7 @@
                       "description": "ID of the message this is replying to",
                       "nullable": true
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 },
                 "created_at": {
                   "type": "integer",
@@ -27183,8 +26442,7 @@
                           "type": "string",
                           "description": "IP address when the contact was created"
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     },
                     "custom_attributes": {
                       "type": "object",
@@ -27227,16 +26485,13 @@
                         "contact"
                       ]
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
-              },
-              "additionalProperties": true
+              }
             },
             "description": "List of messages in the conversation"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "contact_meta": {
         "type": "object",
@@ -27249,8 +26504,7 @@
             "type": "string",
             "description": "Current page number"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "contact_inbox": {
         "type": "object",
@@ -27287,11 +26541,9 @@
                 "description": "Provider of the inbox",
                 "nullable": true
               }
-            },
-            "additionalProperties": true
+            }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "contact_list_item": {
         "type": "object",
@@ -27316,8 +26568,7 @@
                 "type": "string",
                 "description": "IP address when the contact was created"
               }
-            },
-            "additionalProperties": true
+            }
           },
           "availability_status": {
             "type": "string",
@@ -27409,15 +26660,12 @@
                       "description": "Provider of the inbox",
                       "nullable": true
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
-              },
-              "additionalProperties": true
+              }
             }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "contacts_list_response": {
         "type": "object",
@@ -27433,8 +26681,7 @@
                 "type": "string",
                 "description": "Current page number"
               }
-            },
-            "additionalProperties": true
+            }
           },
           "payload": {
             "type": "array",
@@ -27461,8 +26708,7 @@
                       "type": "string",
                       "description": "IP address when the contact was created"
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 },
                 "availability_status": {
                   "type": "string",
@@ -27554,20 +26800,16 @@
                             "description": "Provider of the inbox",
                             "nullable": true
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
-                    },
-                    "additionalProperties": true
+                    }
                   }
                 }
-              },
-              "additionalProperties": true
+              }
             },
             "description": "List of contacts"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "contact_show_response": {
         "type": "object",
@@ -27595,8 +26837,7 @@
                     "type": "string",
                     "description": "IP address when the contact was created"
                   }
-                },
-                "additionalProperties": true
+                }
               },
               "availability_status": {
                 "type": "string",
@@ -27688,18 +26929,14 @@
                           "description": "Provider of the inbox",
                           "nullable": true
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               }
-            },
-            "additionalProperties": true
+            }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "contact_conversation_message": {
         "type": "object",
@@ -27809,11 +27046,9 @@
                     "type": "string",
                     "description": "Source ID of the contact inbox"
                   }
-                },
-                "additionalProperties": true
+                }
               }
-            },
-            "additionalProperties": true
+            }
           },
           "sender": {
             "type": "object",
@@ -27847,11 +27082,9 @@
                 "type": "string",
                 "description": "Thumbnail URL of the sender"
               }
-            },
-            "additionalProperties": true
+            }
           }
-        },
-        "additionalProperties": true
+        }
       },
       "contact_conversations_response": {
         "type": "object",
@@ -27982,8 +27215,7 @@
                             "type": "object",
                             "description": "User/Agent/AgentBot object"
                           }
-                        },
-                        "additionalProperties": true
+                        }
                       }
                     },
                     "account_id": {
@@ -28179,8 +27411,7 @@
                           "type": "object",
                           "description": "User/Agent/AgentBot object"
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     },
                     "last_activity_at": {
                       "type": "number",
@@ -28209,8 +27440,7 @@
                         "description": "SLA event objects"
                       }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 },
                 {
                   "type": "object",
@@ -28269,8 +27499,7 @@
                               "type": "number",
                               "description": "The created at of the sender"
                             }
-                          },
-                          "additionalProperties": true
+                          }
                         },
                         "channel": {
                           "type": "string",
@@ -28392,29 +27621,24 @@
                                     "type": "object",
                                     "nullable": true
                                   }
-                                },
-                                "additionalProperties": true
+                                }
                               }
                             }
-                          },
-                          "additionalProperties": true
+                          }
                         },
                         "hmac_verified": {
                           "type": "boolean",
                           "description": "Whether the hmac is verified"
                         }
-                      },
-                      "additionalProperties": true
+                      }
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
               ]
             },
             "description": "List of conversations for the contact"
           }
-        },
-        "additionalProperties": true
+        }
       },
       "contactable_inboxes_response": {
         "type": "object",
@@ -28456,16 +27680,13 @@
                       "description": "Provider of the inbox",
                       "nullable": true
                     }
-                  },
-                  "additionalProperties": true
+                  }
                 }
-              },
-              "additionalProperties": true
+              }
             },
             "description": "List of contactable inboxes for the contact"
           }
-        },
-        "additionalProperties": true
+        }
       }
     },
     "parameters": {
