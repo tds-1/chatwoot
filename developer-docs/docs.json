@@ -259,7 +259,7 @@
               "Teams",
               "Webhooks"
             ],
-            "openapi": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/swagger/tag_groups/application_swagger.json"
+            "openapi": "https://raw.githubusercontent.com/tds-1/chatwoot/refs/heads/mintlify-test/swagger/tag_groups/application_swagger.json"
           },
           {
             "group": "Platform APIs",
@@ -270,7 +270,7 @@
               "AgentBots",
               "Users"
             ],
-            "openapi": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/swagger/tag_groups/platform_swagger.json"
+            "openapi": "https://raw.githubusercontent.com/tds-1/chatwoot/refs/heads/mintlify-test/swagger/tag_groups/platform_swagger.json"
           },
           {
             "group": "Client APIs",
@@ -280,7 +280,7 @@
               "Conversations API",
               "Messages API"
             ],
-            "openapi": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/swagger/tag_groups/client_swagger.json"
+            "openapi": "https://raw.githubusercontent.com/tds-1/chatwoot/refs/heads/mintlify-test/swagger/tag_groups/client_swagger.json"
           },
           {
             "group": "Other APIs",
@@ -288,7 +288,7 @@
             "includeTags": [
               "CSAT Survey Page"
             ],
-            "openapi": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/swagger/tag_groups/other_swagger.json"
+            "openapi": "https://raw.githubusercontent.com/tds-1/chatwoot/refs/heads/mintlify-test/swagger/tag_groups/other_swagger.json"
           }
         ]
       }
