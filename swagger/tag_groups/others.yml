@@ -10,7 +10,7 @@ info:
     name: MIT License
     url: https://opensource.org/licenses/MIT
 servers:
-  - url: http://host.docker.internal/
+  - url: https://59a6-2401-4900-1f35-2dc7-b44c-f1d8-4874-a893.ngrok-free.app/
 tags:
   - name: CSAT Survey Page
     description: APIs for CSAT survey functionality
