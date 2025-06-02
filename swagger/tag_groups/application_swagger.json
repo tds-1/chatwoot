@@ -1,8 +1,5 @@
 {
   "openapi": "3.0.4",
-  "x-mcp": {
-    "enabled": true
-  },
   "info": {
     "title": "Chatwoot",
     "description": "This is the API documentation for Chatwoot server.",
@@ -139,6 +136,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "post": {
@@ -290,6 +290,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -450,6 +453,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "patch": {
@@ -601,6 +607,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "delete": {
@@ -689,6 +698,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -820,6 +832,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "post": {
@@ -986,6 +1001,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -1199,6 +1217,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "delete": {
@@ -1298,6 +1319,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -1402,6 +1426,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "post": {
@@ -1512,6 +1539,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -1681,6 +1711,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "delete": {
@@ -1780,6 +1813,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -1923,6 +1959,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "post": {
@@ -2093,6 +2132,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -2281,6 +2323,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "patch": {
@@ -2497,6 +2542,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "delete": {
@@ -2605,6 +2653,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -2854,6 +2905,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "post": {
@@ -3123,6 +3177,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -3369,6 +3426,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "put": {
@@ -3645,6 +3705,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "delete": {
@@ -3733,6 +3796,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -4421,6 +4487,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -4548,6 +4617,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "post": {
@@ -4680,6 +4752,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -4937,6 +5012,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -5233,6 +5311,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -5547,6 +5628,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "post": {
@@ -5892,6 +5976,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -6277,6 +6364,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "patch": {
@@ -6668,6 +6758,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "delete": {
@@ -6767,6 +6860,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -7224,6 +7320,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "get": {
@@ -7664,6 +7763,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -8241,6 +8343,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -8412,6 +8517,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -8620,6 +8728,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -8764,6 +8875,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -9504,6 +9618,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "post": {
@@ -9702,6 +9819,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -10446,6 +10566,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -11114,6 +11237,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "patch": {
@@ -11235,6 +11361,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -11406,6 +11535,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -11547,6 +11679,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -11695,6 +11830,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -11958,6 +12096,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -12085,6 +12226,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "post": {
@@ -12217,6 +12361,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -12504,6 +12651,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -12790,6 +12940,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -13199,6 +13352,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -13603,6 +13759,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -13763,6 +13922,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -13894,6 +14056,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -14086,6 +14251,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -14325,6 +14493,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "patch": {
@@ -14551,6 +14722,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "delete": {
@@ -14702,6 +14876,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -15132,6 +15309,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "post": {
@@ -15443,6 +15623,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -15562,6 +15745,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -15714,6 +15900,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -15851,6 +16040,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -15987,6 +16179,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "delete": {
@@ -16095,6 +16290,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -16277,6 +16475,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -16381,6 +16582,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "post": {
@@ -16507,6 +16711,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -16651,6 +16858,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "patch": {
@@ -16766,6 +16976,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "delete": {
@@ -16854,6 +17067,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -17049,6 +17265,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "post": {
@@ -17263,6 +17482,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "patch": {
@@ -17477,6 +17699,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "delete": {
@@ -17623,6 +17848,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -17748,6 +17976,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "post": {
@@ -17886,6 +18117,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -18037,6 +18271,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "patch": {
@@ -18164,6 +18401,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "delete": {
@@ -18252,6 +18492,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -18361,6 +18604,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "post": {
@@ -18503,6 +18749,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -18667,6 +18916,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       },
       "delete": {
@@ -18730,6 +18982,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -18908,6 +19163,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -19101,6 +19359,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -19234,6 +19495,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     },
@@ -19396,6 +19660,9 @@
               }
             }
           }
+        },
+        "x-mcp": {
+          "enabled": true
         }
       }
     }
