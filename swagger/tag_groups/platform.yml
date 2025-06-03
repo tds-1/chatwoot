@@ -10,7 +10,7 @@ info:
     name: MIT License
     url: https://opensource.org/licenses/MIT
 servers:
-  - url: https://59a6-2401-4900-1f35-2dc7-b44c-f1d8-4874-a893.ngrok-free.app
+  - url: https://1d6c-2401-4900-1f35-2dc7-adaa-9953-c7fb-5199.ngrok-free.app
 tags:
   - name: Accounts
     description: Platform account management
